@@ -1,59 +1,59 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## PREPMATE - A REALTIME AI INTERVIEW
+The Real-time AI interview is an AI-powered web application that conducts realistic voice-based mock interviews, generates personalized technical and behavioral questions, and provides structured feedback to help users improve their interview performance using modern full-stack and AI technologies.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The Prepmate is a full-stack, AI-driven web application designed to help users prepare effectively for job interviews. It simulates real interview scenarios through a voice-based AI assistant that asks personalized technical and behavioral questions based on the user’s role, experience, and preferences. The system records and analyzes user responses, generates interview transcripts, and provides detailed, structured feedback highlighting strengths, weaknesses, and areas for improvement. Built using modern technologies like Next.js, Firebase, Tailwind CSS, and Google Gemini, the platform offers a secure, scalable, and interactive interview practice experience that users can access anytime, anywhere.
+
 
 ## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- AI-powered voice-based mock interview system for realistic interview practice.
+- Personalized technical and behavioral question generation using large language models.
+- Secure authentication and user management using Firebase.
+- Real-time interview interaction with speech-to-text and text-to-speech support.
+- Structured and actionable interview feedback based on transcript analysis.
+- Full-stack framework–based application suitable for real-world deployment.
+- High scalability with cloud backend and server-side rendering support.
+- Optimized data fetching and state management for reduced time complexity.
+- Modular and reusable UI components with responsive design.
+- Well-defined AI response and feedback structure using schema-based (JSON) data formats.
+
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+- Operating System: 64-bit OS (Windows).
+- Development Environment: Node.js with npm or yarn.
+- Frontend Framework: Next.js with React and TypeScript.
+- UI Styling: Tailwind CSS.
+- Backend & Database: Firebase Authentication and Firestore.
+- AI & Voice Services: Google Gemini API and VY Voice AI.
+- Form Validation: React Hook Form with Zod.
+- Version Control: Git and GitHub.
+- IDE: Visual Studio Code (VS Code).
+- Deployment: Vercel.
 
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b32b7287-45c5-456d-9149-bcea9b59d285" />
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Log in page
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/5292d463-c13d-4795-8ca9-cdb8c075db72" />
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output2 - Home page 
+<img width="1895" height="960" alt="image" src="https://github.com/user-attachments/assets/224c574f-61b6-4080-b569-a3d46a1b9fa8" />
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
-
+#### Output3 - Interview generation page
+<img width="1915" height="946" alt="image" src="https://github.com/user-attachments/assets/484450dd-625b-4125-a62e-b4c44f7c8260" />
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+The Prepmate, improves interview preparedness by providing users with a realistic, interactive, and personalized interview experience anytime and anywhere. By combining voice-based AI interaction and intelligent feedback analysis, the system helps users enhance their communication skills, technical knowledge, and confidence in a practical manner. This project demonstrates the effective use of conversational AI and modern web technologies in career development applications and serves as a strong foundation for future advancements in AI-driven recruitment, training, and skill assessment platforms.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
-
-
+- [1] R. Mandal et al., “AI-Based Mock Interview Evaluator,” ICISCoIS, 2023.
+- [2] S. Sharma et al., “AI-Enhanced Interview System (Shreshta Hire),” ICDT, 2025.
+- [3] G. S. Rao et al., “AI Powered Virtual Job Interview Simulator,” ICOEI, 2025.
+- [4] Y. C. Chou et al., “AI Mock-Interview Platform for Performance Analysis,” ICIET, 2022.
+- [5] R. M. Marvaniya et al., “Smart Prep: AI-Based Interview Preparation System,” OTCON, 2025.
+- [6] P. Rajakumar et al., “IoT Based Voice Assistant using NLP,” ICEARS, 2022.
+- [7] M. Laiq et al., “Chatbot-Based Interview Simulator,” IEEE RE, 2020.
