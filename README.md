@@ -1,4 +1,4 @@
-## PREPMATE - A REALTIME AI INTERVIEW
+## A REAL TIME AI INTERVIEW -  PREPMATE
 The Real-time AI interview is an AI-powered web application that conducts realistic voice-based mock interviews, generates personalized technical and behavioral questions, and provides structured feedback to help users improve their interview performance using modern full-stack and AI technologies.
 
 ## About
