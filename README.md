@@ -43,8 +43,21 @@ The Prepmate is a full-stack, AI-driven web application designed to help users p
 #### Output2 - Home page 
 <img width="1904" height="971" alt="image" src="https://github.com/user-attachments/assets/3c4c64e9-91e5-4195-89df-82a9ad04abf4" />
 
-#### Output3 - Interview generation page
+#### Output3 - Interview generation modes
+<img width="1774" height="862" alt="image" src="https://github.com/user-attachments/assets/b8a2238e-f162-418f-bc06-62081b408905" />
+
+#### Output4 - Interview generation page - voice mode
 <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/6ee03202-d290-49f6-a255-f13e7fb6770b" />
+
+#### Output5 - Interview generation - form mode
+<img width="1777" height="856" alt="image" src="https://github.com/user-attachments/assets/f32bf86b-cec0-4e63-bf09-cb009821eb2a" />
+
+#### Output6 - Profile page
+<img width="1741" height="870" alt="image" src="https://github.com/user-attachments/assets/a4c58b17-3137-4e3f-b632-16c5ece81218" />
+
+### Output7 - Mock interview page
+<img width="1758" height="855" alt="image" src="https://github.com/user-attachments/assets/70012a7d-d1af-4f8f-9c3d-be83c63be7e8" />
+
 
 ## Results and Impact
 The Prepmate, improves interview preparedness by providing users with a realistic, interactive, and personalized interview experience anytime and anywhere. By combining voice-based AI interaction and intelligent feedback analysis, the system helps users enhance their communication skills, technical knowledge, and confidence in a practical manner. This project demonstrates the effective use of conversational AI and modern web technologies in career development applications and serves as a strong foundation for future advancements in AI-driven recruitment, training, and skill assessment platforms.
