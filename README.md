@@ -35,27 +35,28 @@ The Prepmate is a full-stack, AI-driven web application designed to help users p
 
 
 ## Output
+#### Output1 - Signup page
+<img width="1155" height="573" alt="image" src="https://github.com/user-attachments/assets/e057577d-81b9-4bc7-9769-462a05e6a6bb" />
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Log in page
+#### Output2 - Log in page
 <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/6d761d97-0c89-48c7-9a2f-115f1cd23a52" />
 
-#### Output2 - Home page 
+#### Output3 - Home page 
 <img width="1904" height="971" alt="image" src="https://github.com/user-attachments/assets/3c4c64e9-91e5-4195-89df-82a9ad04abf4" />
 
-#### Output3 - Interview generation modes
+#### Output4 - Interview generation modes
 <img width="1774" height="862" alt="image" src="https://github.com/user-attachments/assets/b8a2238e-f162-418f-bc06-62081b408905" />
 
-#### Output4 - Interview generation page - voice mode
+#### Output5 - Interview generation page - voice mode
 <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/6ee03202-d290-49f6-a255-f13e7fb6770b" />
 
-#### Output5 - Interview generation - form mode
+#### Output6 - Interview generation - form mode
 <img width="1777" height="856" alt="image" src="https://github.com/user-attachments/assets/f32bf86b-cec0-4e63-bf09-cb009821eb2a" />
 
-#### Output6 - Profile page
+#### Output7 - Profile page
 <img width="1741" height="870" alt="image" src="https://github.com/user-attachments/assets/a4c58b17-3137-4e3f-b632-16c5ece81218" />
 
-### Output7 - Mock interview page
+#### Output8 - Mock interview page
 <img width="1758" height="855" alt="image" src="https://github.com/user-attachments/assets/70012a7d-d1af-4f8f-9c3d-be83c63be7e8" />
 
 
